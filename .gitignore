@@ -1,0 +1,16 @@
+# Binary files
+**/.alpackages/
+*.app
+
+# Generated files
+**/.vs/
+*.g.xlf
+**/.vscode/*
+**/.altemplates/
+**/.alcache/
+**/.netpackages/
+
+# AL ORM
+!**/.vscode/objectnoconfig.json
+
+!**/.vscode/settings.json
